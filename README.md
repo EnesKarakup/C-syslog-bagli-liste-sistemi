@@ -55,10 +55,9 @@ Program çalıştırıldığında aşağıdaki gibi bir çıktı üretebilir:
 ```
 c-syslog-bagli-liste-sistemi/
 ├── main.c           # Ana kaynak kodu dosyası (C dilinde syslog kayıtlarını bağlı liste ile işleme)
-├── README.md        # Proje açıklamalarını içeren bu dosya
-└── LICENSE          # Proje lisans dosyası (varsa)
+└── README.md        # Proje açıklamalarını içeren dosya
 ```
 
 ## Lisans
-Bu proje, özgürce kullanılabilir ve paylaşılabilir. Kodunuzu değiştirebilir, geliştirebilir ve ticari olmayan projelerinizde kullanabilirsiniz.
-Ancak, projenin orijinal yazarını her zaman belirtmeniz rica olunur. 
+Bu proje, özgürce kullanılabilir ve paylaşılabilir. Kodu değiştirebilir, geliştirebilir ve ticari olmayan projelerinizde kullanabilirsiniz.
+Ancak, projenin yazarı olarak her zaman yazarı belirtmeniz rica olunur. 
