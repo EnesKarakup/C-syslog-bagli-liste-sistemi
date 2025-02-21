@@ -1,4 +1,4 @@
-# Syslog Kayıtlarını Bağlı Liste ile Yönetme (C)
+# Syslog Kayıtlarını Tek Yönlü Bağlı Liste ile Yönetme (C)
 
 ## Açıklama
 Bu proje, Linux sistemlerinde syslog mekanizmasından elde edilen log verilerini C dilinde yazılmış bir program aracılığıyla **tek yönlü bağlı liste** kullanarak saklayan,
